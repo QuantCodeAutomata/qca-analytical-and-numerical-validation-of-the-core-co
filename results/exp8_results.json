@@ -1,0 +1,21 @@
+{
+  "sigma_inv_kappa_analytical": [
+    32.67973856209151,
+    -16.993464052287585
+  ],
+  "sigma_inv_kappa_numerical": [
+    32.679738562091515,
+    -16.993464052287585
+  ],
+  "consistency_pass": true,
+  "green_threshold": -0.8,
+  "brown_threshold": -1.25,
+  "baseline_rho": 0.7,
+  "green_positive_at_baseline": true,
+  "brown_negative_at_baseline": true,
+  "kappa_quad": 15.032679738562095,
+  "dynamic_correction": [
+    0.9166401593898337,
+    -0.4766528828827134
+  ]
+}

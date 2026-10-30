@@ -1,0 +1,48 @@
+{
+  "power": {
+    "utility": "power",
+    "eta": 2.0,
+    "epsilon": 2.0,
+    "pi0_star_t0": [
+      0.47001706570791624,
+      -0.23700146676070893
+    ],
+    "xi_t0": 1.2125041465219377,
+    "theta_t0": 0.6801951564068583,
+    "pi_merton": [
+      -0.44662309368191744,
+      0.23965141612200447
+    ],
+    "alpha1": 0.02291394335511983,
+    "checks": {
+      "xi_positive": true,
+      "theta_positive": true,
+      "identity_satisfied": true,
+      "root_res_passed": true,
+      "f_terminal_ok": true,
+      "ode_residual_max": 1.1839578727135258e-09
+    },
+    "sign_regime": "negative",
+    "identity_max_err": 0.0,
+    "root_res_max": 3.4435598816884294e-10
+  },
+  "log": {
+    "utility": "log",
+    "eta": 1.0,
+    "epsilon": 2.0,
+    "pi0_star_t0": [
+      0.6399179356181539,
+      -0.31794251170662513
+    ],
+    "xi_t0": 1.2869548429769433,
+    "theta_t0": 0.6037725759039513,
+    "pi_merton": [
+      -0.8932461873638349,
+      0.47930283224400894
+    ],
+    "alpha1": 0.025827886710239657,
+    "identity_max_err": 2.220446049250313e-16,
+    "root_res_max": 7.764842102631064e-10,
+    "ode_residual_max": 7.461171507017195e-10
+  }
+}
